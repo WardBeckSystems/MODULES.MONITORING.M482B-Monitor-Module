@@ -1,0 +1,41 @@
+{
+ "code": "M482B",
+ "connector": "RTO-144",
+ "type": "M482B Monitor Module",
+ "series": null,
+ "contacts": "59 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "25",
+   "signal": "INPUT SELECTORS",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module.pdf",
+   "page": 4
+  },
+  {
+   "pin": "59",
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - P05 - 2-2.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M482B/M482B.rto144.json",
+  "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module.pdf",
+  "Modules/MONITORING/M482B/MANUALS/1982 - M482B - P05 - 2-2.jpg"
+ ]
+}
