@@ -23,7 +23,7 @@ Wiki page: [M482B](../../../../PAGES/M482B.md)
 - **Title block:** (287, 0)–(432, 68) mm: ISSUE (DATE · REVISION · ApP · WBS · WARD-BECK systeM8 · DRN:P MAHove · M4828 · ENG. MRN Il/79 · MONITOR MODULE · CKD: · DIAGRAM · APP · FUNCTIONAL · SCALE · 482-01-001 · ISSUE
 - **Wiring (first pass):** 76 connected wire groups from 210 runs; labelled ends: 110 mm → (-6dB), (-6 dB), S~ede); 84 mm → SOLO, INPUT, 600 OHMS; 57 mm → LINE, INPUTS, +8dBm; 38 mm → 600 OHMS, AUXILIARY _; 37 mm → METER, Monitor Outputs, DIRECT, MUTED
 
-Every curve, box, word and wire group: [1982 - M482B - 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-01-001%20-%20MUTE%20CONTROL%20OFF%20SOLO%20CONTROL%20SOLO%20INPUT%20(traced).json) (the CAD file: `1982 - M482B - 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-01-001%20-%20MUTE%20CONTROL%20OFF%20SOLO%20CONTROL%20SOLO%20INPUT%20%28traced%29.json) (the CAD file: `1982 - M482B - 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT (traced).dxf`).
 
 ## Full text
 

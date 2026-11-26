@@ -23,7 +23,7 @@ Wiki page: [M482B](../../../../PAGES/M482B.md)
 - **Words (OCR):** 87 in 82 lines: Zaem · E5- · CCNPONE~T SCSIGNA · SPECIFIED · C~5 · 41,64 · ~SE P23 · Sw2 · Cio · 40 · M2 · 514
 - **Wiring (first pass):** 168 connected wire groups from 1,038 runs, 2 dotted junctions; labelled ends: 393 mm → Swi; 239 mm → WBS; 120 mm → Iae; 100 mm → z3c/10, D6; 78 mm → p62
 
-Every curve, box, word and wire group: [1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-02-003%20-%20MONITOR%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-02-003%20-%20MONITOR%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

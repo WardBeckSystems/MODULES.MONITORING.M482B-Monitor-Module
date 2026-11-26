@@ -22,7 +22,7 @@ Wiki page: [M482B](../../../../PAGES/M482B.md)
 - **Words (OCR):** 36 in 30 lines: C25*25 · 09 R67 20 · 40 · 64 · 24 · 883 · 48 · 94 · Rzc' 22 · 4eoi · 8 3 · SV
 - **Title block:** (352, 18)–(432, 35) mm: WBS WARO-Beck systeMS · M4828
 
-Every curve, box, word and wire group: [1982 - M482B - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-06-002%20-%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1982 - M482B - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M482B%20-%20482-06-002%20-%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M482B - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

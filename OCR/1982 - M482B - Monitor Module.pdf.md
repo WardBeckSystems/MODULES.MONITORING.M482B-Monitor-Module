@@ -26,7 +26,7 @@ Wiki page: [M482B](../../../../PAGES/M482B.md)
 - **Words (OCR):** 47 in 32 lines: WARD-BECK SySTeMS LTD · TABLE 0F · CONTENTS · M4828 MON TOR MQDULE · SECTION · PAGE · Technical · Data · t0 · 1-2 · circuit · Description
 - **Title block:** (10, 38)–(267, 421) mm: WARD-BECK SySTeMS LTD · TABLE 0F · CONTENTS · M4828 MON TOR MQDULE · SECTION · PAGE · Technical · Data · t0 · 1-2 · circuit · Description · 2-1 · 2-2 · Parts List · 3-1 t0 · 3-4 · Connector layout · 4
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p1 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p1%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p1 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p1%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -35,7 +35,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p1 (traced
 - **Outlines:** line 42 rings, 647 straight (2,995 mm) / 100 curved (148 mm); text 1,162 rings, 7,994 straight (8,782 mm) / 2,384 curved (3,688 mm)
 - **Words (OCR):** 145 in 83 lines: WAAD-BECK ByBtems LTD · TECHNICAL · DATA · M482B · MONITOR MODULE · Gain: · Monitor · 10 dB · 0.5 · dB (bridging gain) · 10 dB · 0.5 dB
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p2 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p2%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p2 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p2%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p2 (traced
 - **Outlines:** line 26 rings, 662 straight (2,819 mm) / 101 curved (163 mm); text 294 rings, 2,180 straight (2,452 mm) / 640 curved (991 mm)
 - **Words (OCR):** 39 in 23 lines: WARD-BECK syatems LTD_ · TECHNICAL DATA · M4828 MONITOR · MODULE · Power Requirements: · +/-25 volts · dc, 20 IA nominal · IA maximum · 60 · Temperature; · Ambient · t0
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p3 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p3%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p3 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p3%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p3 (traced
 - **Dots (junctions):** 1
 - **Words (OCR):** 298 in 123 lines: WAAD-BECK BYBTEMB LTD · CIRcUIT DESCRIPTION · M482B MON TOR MODULE · The M482B · Monitor Module · permits the · monitoring of the main console · outputs, the · line selector inputs · and · three external Sources. · SOLO
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p4 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p4%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p4 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p4%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p4 (traced
 - **Outlines:** line 20 rings, 749 straight (2,795 mm) / 87 curved (139 mm); text 855 rings, 6,011 straight (6,777 mm) / 1,758 curved (2,643 mm)
 - **Words (OCR):** 121 in 59 lines: WAAD-BECK systems LTD · CRcuIT · DESCRIPT ION · M482B MON · TOR_MODULE · Module_Qutputs_ · The M82B Monitor Module · provides three seperale outputs. · The · metering output appcaring at · pins · 57
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p5 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p5%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p5 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p5%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p5 (traced
 - **Outlines:** line 199 rings, 1,447 straight (3,933 mm) / 317 curved (469 mm); text 793 rings, 6,184 straight (7,116 mm) / 1,864 curved (2,882 mm)
 - **Words (OCR):** 102 in 98 lines: WAAD-BECK · SyBtems LTD_ · PARTS · MONITOR · MODULE · M4828 · PART · DESCRIPTION · MFG · MFG PART · NUMBER · CI
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p6 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p6%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p6 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p6%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -82,7 +82,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p6 (traced
 - **Words (OCR):** 101 in 93 lines: WAAD-BECK Systems LTD · PARTS LiST · M4828 MONITOR · MODULE · PART · DESCRIPTON · MFG · MFG PART · NUMBER · 01 · Transistor · Fairchild
 - **Title block:** (11, 40)–(239, 423) mm: WAAD-BECK Systems LTD · PARTS LiST · M4828 MONITOR · MODULE · PART · DESCRIPTON · MFG · MFG PART · 01 · Transistor · Fairchild · 2N3569 · 02 · 2N3645 · 03 · 2N3569 · 04 · 2N3645 · RI · Resistor · 1/4w
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p7 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p7%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p7 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p7%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p7 (traced
 - **Outlines:** line 159 rings, 1,244 straight (3,884 mm) / 249 curved (363 mm); text 454 rings, 3,633 straight (4,168 mm) / 1,122 curved (1,676 mm)
 - **Words (OCR):** 92 in 83 lines: WAAD-BECK Systems LTD; · PARTS · LIST · M482B MON TOR MODULE · PART · DESCRIPT ION · MFG · MFG PART · NUMBER · R32 · Resistor · 1/4w576 22k
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p8 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p8%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p8 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p8%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p8 (traced
 - **Words (OCR):** 97 in 75 lines: WARD-BECK BYBTEmS LTD · PARTS LiST · M4828 MONITOR · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R68 · Resistor · {4w
 - **Title block:** (12, 54)–(238, 424) mm: WARD-BECK BYBTEmS LTD · PARTS LiST · M4828 MONITOR · MODULE · PART · DESCRIPTION · MFG · MFG PART · R68 · Resistor · {4w · 300 · Philips · 39 · R69 · R70 · 1k5 · R71 · 1/2w · 590 220 · SW1 ) · 4c Inte
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p9 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p9%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p9 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p9%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p9 (traced
 - **Closed boxes:** 59; named: 31 132 33 134 45 36 37 38 39 14o 10 [41 ; 31; 132; 33; 45; 36; 37; 38; 39; 14o; 10; [41
 - **Words (OCR):** 108 in 65 lines: WAAD-BECK Bystemb LTD_ · P1 CONNECTOR LAYouT · MODULE · M482B MONITOR · NC 31 · NC · 132 · 33 · NC · NC · 134 · NC
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p10 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p10%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p10 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p10%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p10 (trace
 - **Outlines:** line 61 rings, 819 straight (3,264 mm) / 129 curved (195 mm); text 1,136 rings, 8,136 straight (8,932 mm) / 2,459 curved (3,679 mm)
 - **Words (OCR):** 161 in 84 lines: WARD-BECK · OPERAT IONAL · CONTROLS · M4828 MONITOR · MODULE · UtiliTY switches · respeclively: · and · Sw8 Sw9 and · SW1o · Allows selection of the · external
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p11 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p11%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p11 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p11%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -131,7 +131,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p11 (trace
 - **Words (OCR):** 27 in 24 lines: WBS · M4828 · CUE · SEL · 4uX · M2 · Mi · OFF · SOLO · MONITOR · LEVEL · IS SUE   DATE
 - **Title block:** (152, 0)–(336, 365) mm: WBS · M4828 · CUE · SEL · 4uX · M2 · Mi · OFF · SOLO · MONITOR · LEVEL · IS SUE   DATE · RFYISION · WBS WARD-BECK systems · DRN · M4828 · ENG · MONITOR MODULE · CKD · APP · FRONT PANEL · SCALE · ISSUE
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p12 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p12%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p12 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p12%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p12 (trace
 - **Title block:** (287, 0)–(432, 68) mm: ISSUE (DATE · REVISION · APP · WBS · WARD-BECK SYSTEMB · DRN: P MAHOve · M4828 · ENG. MRN Il/79 · MONITOR MODULE · CKD_ · DIAGRAM · APP · FUNCTIONAL · SCALE · 482-01-001 · ISSUE
 - **Wiring (first pass):** 77 connected wire groups from 211 runs; labelled ends: 84 mm → SOLO, INPUT, dBm, 600 OHMS; 73 mm → (-6 dB), S~ede); 57 mm → LINE, INPUTS, +8dBm; 38 mm → AUXILIARY _; 37 mm → (-6dB)
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p13 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p13%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p13 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p13%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -160,7 +160,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p13 (trace
 - **Title block:** (359, 16)–(432, 31) mm: WBS WAAD · BeCk systeMB
 - **Wiring (first pass):** 173 connected wire groups from 1,061 runs, 3 dotted junctions; labelled ends: 377 mm → Sel; 117 mm → CRI, 444142, 324; 99 mm → Z20n0; 70 mm → 220/10; 67 mm → LINES
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p14 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p14%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p14 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p14%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1982 - M482B - Monitor Module p14 (trace
 - **Words (OCR):** 34 in 29 lines: 225 · 2725 · 271728 82 · 41 · 4 4 · 813 · 828 · 2N3369 · 48 · puzc, · 42oi · 8 8
 - **Title block:** (353, 18)–(432, 34) mm: Issut DATF · WBS WARD Beck Sybtems · M4828
 
-Every curve, box, word and wire group: [1982 - M482B - Monitor Module p15 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p15%20(traced).json) (the CAD file: `1982 - M482B - Monitor Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - Monitor Module p15 (traced).json](../MANUALS/1982%20-%20M482B%20-%20Monitor%20Module%20p15%20%28traced%29.json) (the CAD file: `1982 - M482B - Monitor Module p15 (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [M482B](../../../../PAGES/M482B.md)
 - **Words (OCR):** 26 in 22 lines: WBS · M4828 · CUE · SEL · AUX · M2 · OFF · SOLO · MONiTOR · LEVEL · ISSUE DATE · REvision
 - **Title block:** (152, 0)–(336, 365) mm: WBS · M4828 · CUE · SEL · AUX · M2 · OFF · SOLO · MONiTOR · LEVEL · ISSUE DATE · REvision · WBS WARD-BECK systems · DRN · M4828 · MONITOR MODULE · CKD · APP · FRONT PANEL · SCALE · ISSUE · 482-04-001
 
-Every curve, box, word and wire group: [1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL (traced).json](../MECHANICAL/1982%20-%20M482B%20-%20482-04-001%20-%20MONITOR%20MODULE%20FRONT%20PANEL%20(traced).json) (the CAD file: `1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL (traced).json](../MECHANICAL/1982%20-%20M482B%20-%20482-04-001%20-%20MONITOR%20MODULE%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL (traced).dxf`).
 
 ## Full text
 
