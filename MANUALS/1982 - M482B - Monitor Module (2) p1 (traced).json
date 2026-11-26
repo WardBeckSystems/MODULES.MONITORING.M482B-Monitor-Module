@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/64042c80a450d776-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1403, 2000],
+  "mm": [302.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 27.2, 290.6, 431.6],
+ "outlines": {
+  "line": {"rings": 64, "straight": {"n": 1018, "mm": 3555.4}, "curved": {"n": 152, "mm": 245.0}},
+  "text": {"rings": 401, "straight": {"n": 2881, "mm": 3206.0}, "curved": {"n": 839, "mm": 1286.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 63,
+  "lines": [
+   {"mm": [17.1, 404.4, 128.2, 409.9], "text": "WARe -BECK YSTEMS LTO"},
+   {"mm": [117.0, 362.5, 184.2, 368.3], "text": "TAB LE OF CO NTENTS"},
+   {"mm": [111.0, 349.5, 185.7, 354.3], "text": "M48 28 MON TOR MODUL"},
+   {"mm": [31.1, 315.9, 53.3, 320.7], "text": "SECTIO"},
+   {"mm": [206.6, 316.5, 222.2, 321.5], "text": "PAGE"},
+   {"mm": [91.8, 289.7, 136.4, 294.8], "text": "Tec hni cal Dill"},
+   {"mm": [91.8, 283.0, 96.7, 288.1], "text": "Ci"},
+   {"mm": [109.5, 283.0, 113.3, 288.1], "text": "il"},
+   {"mm": [118.1, 283.3, 153.9, 288.3], "text": "De scr iption"},
+   {"mm": [91.8, 269.7, 144.2, 274.9], "text": "Conn~lot'\" I\"you"},
+   {"mm": [91.8, 263.6, 128.2, 268.7], "text": "Opera tional"},
+   {"mm": [133.2, 263.4, 155.7, 268.7], "text": "Con lrol"},
+   {"mm": [99.3, 237.5, 118.1, 242.3], "text": "flwi j:l"},
+   {"mm": [92.2, 224.3, 152.2, 229.4], "text": "M4828 Fron PII.,,,,I"},
+   {"mm": [211.2, 224.8, 242.9, 229.8], "text": "482_04_001"},
+   {"mm": [92.0, 217.8, 147.5, 222.9], "text": "\"1482 Func tional"},
+   {"mm": [207.3, 218.5, 242.9, 223.3], "text": "84B2_01_001"},
+   {"mm": [92.2, 210.9, 140.8, 216.0], "text": "M4828 Sch em ati"},
+   {"mm": [207.5, 211.2, 244.0, 217.1], "text": "8482 -02 -003"},
+   {"mm": [92.2, 204.7, 170.1, 209.7], "text": "M482B Component La ou"},
+   {"mm": [207.5, 205.1, 244.0, 209.9], "text": "8482_06_002"},
+   {"mm": [258.4, 52.0, 277.4, 60.2], "text": "ps"},
+   {"mm": [213.7, 46.9, 259.7, 51.9], "text": "MANUAL SSUE"},
+   {"mm": [248.1, 41.7, 267.9, 52.0], "text": "BS"},
+   {"mm": [264.0, 46.9, 271.4, 52.6], "text": "112"},
+   {"mm": [218.1, 33.9, 267.3, 38.7], "text": "DECE MBER 1982"},
+   {"mm": [227.8, 21.4, 244.6, 27.9], "text": "tp"},
+   {"mm": [221.3, 14.9, 240.3, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 303 × 432 mm, 1403 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–291 mm across, 27–432 mm up",
+  "- **Outlines:** line 64 rings, 1,018 straight (3,555 mm) / 152 curved (245 mm); text 401 rings, 2,881 straight (3,206 mm) / 839 curved (1,286 mm)",
+  "- **Words (OCR):** 63 in 28 lines: WARe -BECK YSTEMS LTO · TAB LE OF CO NTENTS · M48 28 MON TOR MODUL · SECTIO · PAGE · Tec hni cal Dill · Ci · il · De scr iption · Conn~lot'\" I\"you · Opera tional · Con lrol"
+ ]
+}

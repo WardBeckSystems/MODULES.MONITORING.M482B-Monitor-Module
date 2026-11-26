@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module (2).pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/64042c80a450d776-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1403, 2000],
+  "mm": [302.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.1, 16.2, 302.9, 431.8],
+ "outlines": {
+  "line": {"rings": 217, "straight": {"n": 2190, "mm": 5109.3}, "curved": {"n": 544, "mm": 813.5}},
+  "text": {"rings": 401, "straight": {"n": 2675, "mm": 2944.1}, "curved": {"n": 833, "mm": 1229.4}}
+ },
+ "circles": [{"c": [99.8, 327.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [54.2, 407.0, 58.5, 411.7], "w": 4.3, "h": 4.7, "from": "ring", "words": ["·BECI<"]},
+  {"mm": [94.6, 407.0, 98.9, 411.7], "w": 4.3, "h": 4.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 51,
+  "lines": [
+   {"mm": [18.1, 405.2, 129.3, 410.8], "text": "WAFlD ·BECI< SYSTEMS LTD"},
+   {"mm": [136.2, 363.1, 173.6, 368.2], "text": "PARTS LIST"},
+   {"mm": [117.9, 350.0, 167.8, 355.0], "text": "/144828 MONI TOFt"},
+   {"mm": [185.0, 349.8, 195.8, 355.0], "text": "ULE"},
+   {"mm": [63.9, 323.9, 105.1, 328.9], "text": "OESCRIPTION"},
+   {"mm": [219.4, 322.8, 279.6, 328.2], "text": "MF PART NUMB ER"},
+   {"mm": [63.9, 310.5, 108.0, 315.9], "text": "Re sis ior 1/4W"},
+   {"mm": [171.4, 310.5, 178.5, 315.5], "text": "Ph"},
+   {"mm": [32.0, 296.4, 41.9, 302.2], "text": "R3'"},
+   {"mm": [36.1, 283.5, 42.3, 288.5], "text": "J9"},
+   {"mm": [127.6, 271.0, 141.6, 276.0], "text": "2.2M"},
+   {"mm": [31.5, 263.6, 44.7, 268.7], "text": "'J9'"},
+   {"mm": [31.5, 255.6, 42.1, 262.8], "text": "'J9"},
+   {"mm": [31.5, 251.1, 41.9, 257.3], "text": "ROO"},
+   {"mm": [131.9, 244.4, 141.8, 249.4], "text": ".2M"},
+   {"mm": [92.0, 225.2, 105.8, 230.2], "text": "1/2W"},
+   {"mm": [98.0, 218.9, 105.4, 223.5], "text": "4W"},
+   {"mm": [31.1, 171.4, 41.7, 177.7], "text": "'50"},
+   {"mm": [31.1, 164.3, 40.4, 171.5], "text": "'52"},
+   {"mm": [31.1, 151.3, 41.7, 158.5], "text": "'52"},
+   {"mm": [31.1, 144.7, 41.7, 151.8], "text": "'52"},
+   {"mm": [31.1, 138.8, 41.7, 144.8], "text": "'56"},
+   {"mm": [31.1, 125.9, 41.7, 131.9], "text": "'56"},
+   {"mm": [127.6, 113.1, 133.4, 120.1], "text": "ts"},
+   {"mm": [31.1, 105.4, 41.7, 112.6], "text": "'58"},
+   {"mm": [31.1, 98.7, 41.7, 105.9], "text": "'50"},
+   {"mm": [31.1, 92.6, 41.7, 98.6], "text": "'50"},
+   {"mm": [30.7, 72.8, 41.2, 79.0], "text": "'62"},
+   {"mm": [126.5, 66.5, 136.4, 72.7], "text": "62O"},
+   {"mm": [30.7, 59.2, 40.8, 66.4], "text": "'56"},
+   {"mm": [126.9, 53.5, 136.4, 59.8], "text": "JOO"},
+   {"mm": [258.4, 52.0, 277.4, 60.2], "text": "ps"},
+   {"mm": [34.8, 46.2, 41.2, 53.4], "text": "56"},
+   {"mm": [126.5, 47.3, 136.2, 53.0], "text": "300"},
+   {"mm": [248.1, 41.7, 267.9, 52.0], "text": "BS"},
+   {"mm": [126.5, 34.1, 136.2, 40.1], "text": "300"},
+   {"mm": [227.8, 21.4, 244.6, 27.9], "text": "tp"},
+   {"mm": [149.0, 14.5, 158.7, 20.5], "text": "3-3"},
+   {"mm": [221.3, 14.9, 240.3, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 303 × 432 mm, 1403 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 17–303 mm across, 16–432 mm up",
+  "- **Outlines:** line 217 rings, 2,190 straight (5,109 mm) / 544 curved (814 mm); text 401 rings, 2,675 straight (2,944 mm) / 833 curved (1,229 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (99.8, 327.5)",
+  "- **Closed boxes:** 2; named: ·BECI<",
+  "- **Words (OCR):** 51 in 39 lines: WAFlD ·BECI< SYSTEMS LTD · PARTS LIST · /144828 MONI TOFt · ULE · OESCRIPTION · MF PART NUMB ER · Re sis ior 1/4W · Ph · R3' · J9 · 2.2M · 'J9'"
+ ]
+}

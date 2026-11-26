@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/64042c80a450d776-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1403, 2000],
+  "mm": [302.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.6, 1.5, 290.0, 413.9],
+ "outlines": {
+  "line": {"rings": 122, "straight": {"n": 1391, "mm": 3600.2}, "curved": {"n": 312, "mm": 494.3}},
+  "text": {"rings": 221, "straight": {"n": 1573, "mm": 1718.7}, "curved": {"n": 474, "mm": 702.4}},
+  "tb": {"rings": 1, "straight": {"n": 4, "mm": 2.6}, "curved": {"n": 0, "mm": 0.0}}
+ },
+ "circles": [{"c": [37.0, 328.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [17.1, 407.8, 68.4, 412.9], "text": "WARD -BECK"},
+   {"mm": [71.9, 407.8, 128.2, 413.4], "text": "SYSTEMS LTD"},
+   {"mm": [123.7, 365.1, 178.5, 370.1], "text": "TECHNICAL DATA"},
+   {"mm": [111.4, 352.1, 189.6, 357.2], "text": "M48 2B MON1TOR MODULE"},
+   {"mm": [145.5, 325.6, 235.3, 330.6], "text": "25 \\/011,. de, 20 mA namin\""},
+   {"mm": [135.2, 318.9, 154.8, 323.9], "text": "60 mA"},
+   {"mm": [167.3, 318.9, 189.1, 323.9], "text": "ximum."},
+   {"mm": [143.1, 305.7, 148.3, 310.8], "text": "to"},
+   {"mm": [152.6, 305.9, 159.1, 311.0], "text": "60"},
+   {"mm": [205.5, 305.7, 214.4, 310.8], "text": "iu\""},
+   {"mm": [31.5, 293.2, 63.0, 298.2], "text": "Dimen lll ion"},
+   {"mm": [157.8, 292.8, 167.1, 297.8], "text": "id.,"},
+   {"mm": [179.4, 292.8, 185.2, 297.8], "text": "10"},
+   {"mm": [204.0, 292.8, 213.7, 297.8], "text": "igh"},
+   {"mm": [226.5, 292.8, 257.4, 297.8], "text": "5.6\" deep"},
+   {"mm": [206.2, 286.5, 211.6, 291.5], "text": "14"},
+   {"mm": [152.6, 272.9, 202.5, 277.9], "text": "Lbs (650 gms)."},
+   {"mm": [258.4, 52.0, 277.4, 60.2], "text": "ps"},
+   {"mm": [248.1, 41.7, 267.9, 52.0], "text": "BS"},
+   {"mm": [227.8, 21.4, 244.6, 27.9], "text": "tp"},
+   {"mm": [221.3, 14.9, 240.3, 21.4], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [10.9, 399.2, 116.5, 421.9], "from": "title-block words (training set)", "text": ["WARD -BECK", "SYSTEMS LTD"]},
+ "dots": [{"c": [154.1, 308.9], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 303 × 432 mm, 1403 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 17–290 mm across, 2–414 mm up",
+  "- **Outlines:** line 122 rings, 1,391 straight (3,600 mm) / 312 curved (494 mm); text 221 rings, 1,573 straight (1,719 mm) / 474 curved (702 mm); tb 1 rings, 4 straight (2.6 mm) / 0 curved (0.0 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (37.0, 328.9)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 38 in 21 lines: WARD -BECK · SYSTEMS LTD · TECHNICAL DATA · M48 2B MON1TOR MODULE · 25 \\/011,. de, 20 mA namin\" · 60 mA · ximum. · to · 60 · iu\" · Dimen lll ion · id.,",
+  "- **Title block:** (11, 399)–(116, 422) mm: WARD -BECK · SYSTEMS LTD"
+ ]
+}

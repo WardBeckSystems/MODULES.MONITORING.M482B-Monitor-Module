@@ -1,0 +1,99 @@
+{
+ "drawing": "Modules/MONITORING/M482B/MECHANICAL/1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL.jpg",
+ "version": 1,
+ "trace": "_traces/c916b9ff401067a2.svg",
+ "sheet": {
+  "number": "482-04-001",
+  "title": "Monitor Module Front Panel",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [34.7, -0.1, 335.5, 360.3],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 415, "mm": 1232.8}, "curved": {"n": 107, "mm": 230.1}},
+  "text": {"rings": 146, "straight": {"n": 1054, "mm": 1106.2}, "curved": {"n": 354, "mm": 470.2}},
+  "tb": {"rings": 199, "straight": {"n": 2069, "mm": 5396.9}, "curved": {"n": 410, "mm": 718.5}}
+ },
+ "circles": [
+  {"c": [84.0, 182.7], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [84.3, 117.0], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.9, 201.2], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [84.1, 165.7], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.3, 253.7], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.0, 315.5], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [83.2, 293.1], "r": 5.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [158.5, 352.1, 167.8, 356.5], "text": "WBS"},
+   {"mm": [182.2, 352.1, 194.5, 356.5], "text": "M4828"},
+   {"mm": [172.5, 291.2, 180.1, 295.6], "text": "CUE"},
+   {"mm": [172.5, 191.9, 179.4, 196.3], "text": "SEL"},
+   {"mm": [172.9, 180.5, 180.5, 184.8], "text": "AUX"},
+   {"mm": [172.5, 169.3, 179.0, 174.1], "text": "M2"},
+   {"mm": [172.9, 147.0, 179.4, 150.9], "text": "OFF"},
+   {"mm": [162.1, 107.7, 172.5, 112.1], "text": "SOLO"},
+   {"mm": [179.4, 102.3, 195.6, 106.7], "text": "MONiTOR"},
+   {"mm": [182.2, 98.0, 193.0, 101.9], "text": "LEVEL"},
+   {"mm": [257.1, 43.0, 276.6, 46.8], "text": "ISSUE DATE"},
+   {"mm": [295.6, 43.4, 310.7, 47.2], "text": "REvision"},
+   {"mm": [237.1, 32.2, 334.0, 38.6], "text": "WBS WARD-BECK systems"},
+   {"mm": [231.2, 24.0, 238.8, 27.3], "text": "DRN"},
+   {"mm": [289.1, 21.4, 304.2, 26.7], "text": "M4828"},
+   {"mm": [277.2, 16.0, 317.2, 20.3], "text": "MONITOR MODULE"},
+   {"mm": [231.2, 13.8, 238.8, 16.9], "text": "CKD"},
+   {"mm": [231.2, 8.4, 238.1, 12.3], "text": "APP"},
+   {"mm": [282.6, 9.5, 310.7, 14.3], "text": "FRONT PANEL"},
+   {"mm": [237.7, 3.5, 247.9, 7.3], "text": "SCALE"},
+   {"mm": [322.6, 4.1, 332.9, 7.5], "text": "ISSUE"},
+   {"mm": [277.6, 0.2, 305.7, 5.5], "text": "482-04-001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [151.7, 0.0, 335.5, 365.1],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M4828",
+   "CUE",
+   "SEL",
+   "AUX",
+   "M2",
+   "OFF",
+   "SOLO",
+   "MONiTOR",
+   "LEVEL",
+   "ISSUE DATE",
+   "REvision",
+   "WBS WARD-BECK systems",
+   "DRN",
+   "M4828",
+   "MONITOR MODULE",
+   "CKD",
+   "APP",
+   "FRONT PANEL",
+   "SCALE",
+   "ISSUE",
+   "482-04-001"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 482-04-001, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 35–336 mm across, 0–360 mm up",
+  "- **Outlines:** line 24 rings, 415 straight (1,233 mm) / 107 curved (230 mm); text 146 rings, 1,054 straight (1,106 mm) / 354 curved (470 mm); tb 199 rings, 2,069 straight (5,397 mm) / 410 curved (718 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 5.2 @ (84.0, 182.7), r 5.2 @ (84.3, 117.0), r 5.2 @ (83.9, 201.2), r 5.1 @ (84.1, 165.7)",
+  "- **Words (OCR):** 26 in 22 lines: WBS · M4828 · CUE · SEL · AUX · M2 · OFF · SOLO · MONiTOR · LEVEL · ISSUE DATE · REvision",
+  "- **Title block:** (152, 0)–(336, 365) mm: WBS · M4828 · CUE · SEL · AUX · M2 · OFF · SOLO · MONiTOR · LEVEL · ISSUE DATE · REvision · WBS WARD-BECK systems · DRN · M4828 · MONITOR MODULE · CKD · APP · FRONT PANEL · SCALE · ISSUE · 482-04-001"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/MONITORING/M482B/MANUALS/1982 - M482B - Monitor Module.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/40dbbada78941f2f-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1403, 2000],
+  "mm": [302.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [16.6, 1.5, 290.0, 413.9],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 662, "mm": 2819.3}, "curved": {"n": 101, "mm": 163.1}},
+  "text": {"rings": 294, "straight": {"n": 2180, "mm": 2452.4}, "curved": {"n": 640, "mm": 990.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [17.3, 408.1, 130.0, 415.0], "text": "WARD-BECK syatems LTD_"},
+   {"mm": [122.4, 365.3, 178.5, 372.3], "text": "TECHNICAL DATA"},
+   {"mm": [110.5, 352.3, 162.4, 359.3], "text": "M4828 MONITOR"},
+   {"mm": [165.2, 351.5, 191.1, 358.9], "text": "MODULE"},
+   {"mm": [30.7, 326.0, 100.4, 332.9], "text": "Power Requirements:"},
+   {"mm": [134.3, 326.0, 172.5, 333.0], "text": "+/-25 volts"},
+   {"mm": [174.2, 324.7, 239.4, 332.6], "text": "dc, 20 IA nominal"},
+   {"mm": [145.1, 319.5, 187.8, 326.0], "text": "IA maximum"},
+   {"mm": [134.5, 320.4, 142.7, 325.7], "text": "60"},
+   {"mm": [59.6, 305.7, 104.1, 313.4], "text": "Temperature;"},
+   {"mm": [30.7, 306.6, 57.0, 313.1], "text": "Ambient"},
+   {"mm": [142.1, 306.8, 149.0, 311.1], "text": "t0"},
+   {"mm": [151.6, 304.6, 216.3, 313.0], "text": "60  degrees Celsius"},
+   {"mm": [30.2, 293.6, 70.2, 300.1], "text": "Dimensions:"},
+   {"mm": [134.9, 291.9, 214.8, 300.1], "text": "1.6\" wide 10.0\" high"},
+   {"mm": [225.4, 291.7, 261.0, 299.6], "text": "5.6\" deep ."},
+   {"mm": [134.3, 286.9, 158.3, 293.6], "text": "(41 mm"},
+   {"mm": [169.5, 286.7, 181.4, 293.2], "text": "254"},
+   {"mm": [204.5, 286.7, 216.3, 293.2], "text": "142"},
+   {"mm": [30.7, 273.1, 55.9, 280.1], "text": "Weight:"},
+   {"mm": [134.3, 273.8, 164.3, 280.2], "text": "1.44 Lbs"},
+   {"mm": [167.3, 272.5, 201.2, 280.1], "text": "(650 gms)"},
+   {"mm": [144.9, 17.5, 155.7, 22.8], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 303 × 432 mm, 1403 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 17–290 mm across, 2–414 mm up",
+  "- **Outlines:** line 26 rings, 662 straight (2,819 mm) / 101 curved (163 mm); text 294 rings, 2,180 straight (2,452 mm) / 640 curved (991 mm)",
+  "- **Words (OCR):** 39 in 23 lines: WARD-BECK syatems LTD_ · TECHNICAL DATA · M4828 MONITOR · MODULE · Power Requirements: · +/-25 volts · dc, 20 IA nominal · IA maximum · 60 · Temperature; · Ambient · t0"
+ ]
+}
