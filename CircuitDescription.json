@@ -1,0 +1,22 @@
+{
+ "module": "M482B",
+ "source": {
+  "file": "MANUALS/1982 - M482B - Monitor Module.pdf",
+  "pages": [
+   4,
+   5,
+   6
+  ]
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M4828 Monitor Module permits the monitoring of the main console outputs, the ine selector inputs and three external Sources SOLO input i5 also provided The rrodule outputs are actively balanced operating at Level f +8 dBm. nominal Input Selector Input selections are made with seperate interlock ing pushbutton switch assemblies. Switches Swi to SW10 select the LINE inputs, the CUE input and three external utiliTY inputs. The output of this interlock switch assembly is routed through switch SWiS (SEL) of the second interlocking pushbutton switch assembly. This switch assembly (Sw11 to SWIS) also selects the main console outputs Mi M2 and AUX. An OFF function is also provided (Swi). Preamplifier uI and u2 with their associated components form isolation amplifier which provides balanced bridging inpul to the source selected via the pushbutton input selectors. The output ot this isolation amplifier Needs the monitor Icvel control R30. Solo Input u3 and its associated components form an invertering/isolation amplifier for une side of the balanced SOLO input. The signal is then summed together via R18, R26 and R29, The resultant unbalanced signal is routed to solid state switch u4 Normally U4 passes the signal coming from the input selectors. It thc SOLO control (pin 25 of [he module connector) is activated external Iy, 44 Passes the SOLO signal and turns off the signal from the input selectors. The external SOLO control also activates thc module L0 indicate the SOLO mode. LED on the front panel of Qutput_Amplifier Thc signal is coupled through C18 from the solid state switch uL to the output ampl lifier, made up of U6, 03, 04, u5, 01 and 02 with their associated components. The actively balanced output of this amplifier is coupled through C22 and C23 to the output isolation networks",
+    "Module_Outputs_ The M82B Monitor Module provides three seperale outputs_ Theme tering output appearing at pins 57 & 58 is used to feed standard vu meler The direct output appears at Pins 59 8 60, while muted output i5 made available at pins 55 56 of the module connector Muting relay KI can be controlled externally by grounding pin 26, AII outputs have nominal level of +8 dBm. Power_Supply The t/ -25 volt supply voltage is coupled through pol, arily reversal diodes CRI and CR2 to the decoupling network, consisting of Rio, RII and C1 to C4. This network drops the supply voltage to nominal +/ -16 vol [5 Lo operate the module circuitry and isolate il from the main supply rails,"
+   ]
+  }
+ ]
+}

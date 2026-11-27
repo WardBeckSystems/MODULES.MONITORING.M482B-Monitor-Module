@@ -13,6 +13,48 @@ Ward-Beck Systems M482B, 1979|12. Wiki page: [M482B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [7 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1982 - M482B - Monitor Module.pdf](MANUALS/1982%20-%20M482B%20-%20Monitor%20Module.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;Monitor solo | 10 dB +/ -0.5 dB (bridging gain) 10 dB +/ = 0.5 dB (bridging gain) |
+| **Frequency response** | +/ -0.5dB from 30 Hz to 15 kHz |
+| **Noise** | 80 dB below +18 dBm output level (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.35% ThD from 30 Hz to 15 kHz at +18 dBm outpul Or&quot; Less. Less than 0.19 at kHz at +18 dBm output |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Monitor solo | 600 ohms maximum; balanced 600 ohms MaximUm, balanced. |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Monitor | Solo: 10,000 ohms, balanced. 30 000 ohms, balanced |
+| &nbsp;&nbsp;Input levels |  |
+| &nbsp;&nbsp;Monitor | Solo: +8 dBm nominal +2L dBm maximum. -2 dBm nominal +14 dBmi maximum; |
+| **Output impedances** |  |
+| &nbsp;&nbsp;Meter output | Output #I: Output #2: 600 ohms, balanced 600 ohms, balanced 600 ohms, balanced |
+| **Load impedances** |  |
+| &nbsp;&nbsp;Meter output | Output #I: Output #2: Bridging, balanced (5000 ohms minimum) 600 ohms, balanced. 600 ohms, balanced |
+| &nbsp;&nbsp;Output level | +8 dBm nominal, +22 dBm Maximum. |
+| **Phasing** | Low numbered terminals are in phase. |
+
+## Circuit description
+
+From [1982 - M482B - Monitor Module.pdf](MANUALS/1982%20-%20M482B%20-%20Monitor%20Module.pdf) pages 4-6 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M4828 Monitor Module permits the monitoring of the main console outputs, the ine selector inputs and three external Sources SOLO input i5 also provided The rrodule outputs are actively balanced operating at Level f +8 dBm. nominal Input Selector Input selections are made with seperate interlock ing pushbutton switch assemblies. Switches Swi to SW10 select the LINE inputs, the CUE input and three external utiliTY inputs. The output of this interlock switch assembly is routed through switch SWiS (SEL) of the second interlocking pushbutton switch assembly. This switch assembly (Sw11 to SWIS) also selects the main console outputs Mi M2 and AUX. An OFF function is also provided (Swi). Preamplifier uI and u2 with their associated components form isolation amplifier which provides balanced bridging inpul to the source selected via the pushbutton input selectors. The output ot this isolation amplifier Needs the monitor Icvel control R30. Solo Input u3 and its associated components form an invertering/isolation amplifier for une side of the balanced SOLO input. The signal is then summed together via R18, R26 and R29, The resultant unbalanced signal is routed to solid state switch u4 Normally U4 passes the signal coming from the input selectors. It thc SOLO control (pin 25 of [he module connector) is activated external Iy, 44 Passes the SOLO signal and turns off the signal from the input selectors. The external SOLO control also activates thc module L0 indicate the SOLO mode. LED on the front panel of Qutput_Amplifier Thc signal is coupled through C18 from the solid state switch uL to the output ampl lifier, made up of U6, 03, 04, u5, 01 and 02 with their associated components. The actively balanced output of this amplifier is coupled through C22 and C23 to the output isolation networks
+
+Module_Outputs_ The M82B Monitor Module provides three seperale outputs_ Theme tering output appearing at pins 57 &amp; 58 is used to feed standard vu meler The direct output appears at Pins 59 8 60, while muted output i5 made available at pins 55 56 of the module connector Muting relay KI can be controlled externally by grounding pin 26, AII outputs have nominal level of +8 dBm. Power_Supply The t/ -25 volt supply voltage is coupled through pol, arily reversal diodes CRI and CR2 to the decoupling network, consisting of Rio, RII and C1 to C4. This network drops the supply voltage to nominal +/ -16 vol [5 Lo operate the module circuitry and isolate il from the main supply rails,
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
