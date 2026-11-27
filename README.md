@@ -1,17 +1,17 @@
-# M482B · Monitoring
+# M482B Monitor Module · Monitoring
 
 Ward-Beck Systems M482B, 1979|12. Wiki page: [M482B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M482B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 108 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 107 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -69,7 +69,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT21idDBXdzd3Z1k/view?resourcekey=0-EfWZdG4nITaWmFM9AwvkMw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT21idDBXdzd3Z1k&resourcekey=0-EfWZdG4nITaWmFM9AwvkMw" width="240" alt="1982 - M482B - 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT.jpg"></a><br><sub>1982|15 · 482-01-001 - MUTE CONTROL OFF SOLO CONTROL SOLO INPUT · <a href="SCHEMATICS/1982%20-%20M482B%20-%20482-01-001%20-%20MUTE%20CONTROL%20OFF%20SOLO%20CONTROL%20SOLO%20INPUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRlRJcUJCYXlveDg/view?resourcekey=0-aspQsBK0X9P5atwcSbq7fQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRlRJcUJCYXlveDg&resourcekey=0-aspQsBK0X9P5atwcSbq7fQ" width="240" alt="1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC.jpg"></a><br><sub>1982|15 · 482-02-003 - MONITOR MODULE SCHEMATIC · <a href="SCHEMATICS/1982%20-%20M482B%20-%20482-02-003%20-%20MONITOR%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOF90WlNZSVFGY2c/view?resourcekey=0-h1w3bSTfVYvsz2a7qN_wHQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOF90WlNZSVFGY2c&resourcekey=0-h1w3bSTfVYvsz2a7qN_wHQ" width="240" alt="1982 - M482B - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1982|15 · 482-06-002 - MONITOR MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1982%20-%20M482B%20-%20482-06-002%20-%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSW9DVDFJUjhHNDA/view?resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSW9DVDFJUjhHNDA&resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" width="240" alt="19xx - M482B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.jpg"></a><br><sub>19xx - M482B - DOC - 1202-02-017 - POSTS CHASSIS GROUND</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSW9DVDFJUjhHNDA/view?resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSW9DVDFJUjhHNDA&resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" width="240" alt="19xx - M482B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.jpg"></a><br><sub>19xx - M482B - DOC - 1202-02-017 - POSTS CHASSIS GROUND · <a href="SCHEMATICS/19xx%20-%20M482B%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1979 - 482-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1.jpg`, `1980 - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT - DRN P. MAHONEY - ENG MRW - ISS 2.jpg`, `M482B - P13 - Functional Diagram.jpg`
@@ -102,8 +102,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSU1GVElVaEpFRnM/view?resourcekey=0-uDfNpm8pY_aQnjDK71iSbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSU1GVElVaEpFRnM&resourcekey=0-uDfNpm8pY_aQnjDK71iSbg" width="240" alt="19xx - M482B - DOC - L1202A - P23 - 111-5.jpg"></a><br><sub>19xx - M482B - DOC - L1202A - P23 - 111-5</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M482B - P01 - TOC(1).jpg`, `M482B - P01 - TOC.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -114,7 +112,14 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1982 - M482B - Monitor Module (2) p13.kicad_sch](KICAD/1982%20-%20M482B%20-%20Monitor%20Module%20(2)%20p13.kicad_sch)
 - [1982 - M482B - Monitor Module p13.kicad_sch](KICAD/1982%20-%20M482B%20-%20Monitor%20Module%20p13.kicad_sch)
 - [1982 - M482B - Monitor Module p14.kicad_sch](KICAD/1982%20-%20M482B%20-%20Monitor%20Module%20p14.kicad_sch)
+- [19xx - M482B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.kicad_sch](KICAD/19xx%20-%20M482B%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND.kicad_sch)
+- [M482B - P13 - Functional Diagram.kicad_sch](KICAD/M482B%20-%20P13%20-%20Functional%20Diagram.kicad_sch)
 - [M482B.kicad_sym](KICAD/M482B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
