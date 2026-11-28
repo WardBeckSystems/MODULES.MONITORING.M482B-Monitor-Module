@@ -1,5 +1,5 @@
 # 1982 - M482B - 482-02-003 - MONITOR MODULE SCHEMATIC.jpg
-Wiki page: [M482B](../../../../PAGES/M482B.md)
+Wiki page: [M482B](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

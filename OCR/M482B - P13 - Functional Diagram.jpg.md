@@ -1,5 +1,5 @@
 # M482B - P13 - Functional Diagram.jpg
-Wiki page: [M482B](../../../../PAGES/M482B.md)
+Wiki page: [M482B](../)
 
 
 - **Year:** unknown (title block (read by eye))

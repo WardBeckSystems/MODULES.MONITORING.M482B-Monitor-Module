@@ -1,5 +1,5 @@
 # 1982 - M482B - Monitor Module (2).pdf
-Wiki page: [M482B](../../../../PAGES/M482B.md)
+Wiki page: [M482B](../)
 
 
 - **Year:** 1982 (found in this file: "I SSUE 112 BS MANUAL W DECE MBER 1982")

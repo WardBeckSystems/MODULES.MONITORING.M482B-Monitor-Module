@@ -1,5 +1,5 @@
 # 1980 - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT - DRN P. MAHONEY - ENG MRW - ISS 2.jpg
-Wiki page: [M482B](../../../../PAGES/M482B.md)
+Wiki page: [M482B](../)
 
 
 - **Year:** 1980 (title block date)

@@ -1,5 +1,5 @@
 # 1982 - M482B - Monitor Module.pdf
-Wiki page: [M482B](../../../../PAGES/M482B.md)
+Wiki page: [M482B](../)
 
 
 - **Year:** 1982 (found in this file: "MANUAL ISSUE #2 DECEMBER 1982")

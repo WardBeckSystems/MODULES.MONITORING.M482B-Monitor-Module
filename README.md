@@ -1,6 +1,6 @@
 # M482B Monitor Module · Monitoring
 
-Ward-Beck Systems M482B, 1979|12. Wiki page: [M482B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M482B.html)
+Ward-Beck Systems M482B, 1979|12. Wiki page: [M482B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M482B-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
